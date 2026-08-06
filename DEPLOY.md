@@ -32,7 +32,7 @@ Many users in mainland China reach **Gitee** far more reliably than GitHub. A mi
 **Option B — keep it in sync (push to both):**
 ```bash
 # add Gitee as a second remote
-git remote add gitee https://gitee.com/<your-gitee-name>/TrustExt.git
+git remote add gitee https://gitee.com/wushu_f107/TrustExt.git
 
 # push to both from now on
 git push origin main
@@ -44,7 +44,7 @@ Or, on the Gitee repo page, enable **仓库镜像管理** (repo mirroring) to au
 
 Add both links near the top of your README so visitors can pick whichever loads:
 ```md
-[GitHub](https://github.com/wushu75/TrustExt) · [Gitee 镜像](https://gitee.com/<your-gitee-name>/TrustExt)
+[GitHub](https://github.com/wushu75/TrustExt) · [Gitee 镜像](https://gitee.com/wushu_f107/TrustExt)
 ```
 
 ### 3. Social preview image
@@ -82,7 +82,7 @@ Add both links near the top of your README so visitors can pick whichever loads:
 
 **方式 B —— 保持同步（同时推两端）：**
 ```bash
-git remote add gitee https://gitee.com/<你的用户名>/TrustExt.git
+git remote add gitee https://gitee.com/wushu_f107/TrustExt.git
 git push origin main
 git push gitee main
 ```
@@ -92,7 +92,7 @@ git push gitee main
 
 建议在 README 顶部同时放两个链接，方便访客选择能打开的那个：
 ```md
-[GitHub](https://github.com/wushu75/TrustExt) · [Gitee 镜像](https://gitee.com/<你的用户名>/TrustExt)
+[GitHub](https://github.com/wushu75/TrustExt) · [Gitee 镜像](https://gitee.com/wushu_f107/TrustExt)
 ```
 
 ### 3. 社交分享图
