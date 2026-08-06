@@ -15,6 +15,8 @@
 
 [English](#english) · [简体中文](#简体中文) · [⭐ Star this repo](https://github.com/wushu75/TrustExt) · [Report an issue](https://github.com/wushu75/TrustExt/issues)
 
+🇨🇳 **国内访问更快** → [Gitee 镜像 (Gitee mirror)](https://gitee.com/wushu75/TrustExt) · [在线预览 (Live demo)](https://wushu75.github.io/TrustExt/)
+
 </div>
 
 ---
