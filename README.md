@@ -64,11 +64,12 @@ For millions of Chromium users in mainland China, the **Chrome Web Store is bloc
 
 ### Screenshots
 
-> _Placeholders — add real captures under `docs/` before store submission._
+<p align="center">
+  <img src="docs/store-screenshot-01.png" width="49%" alt="Install without the blocked store" />
+  <img src="docs/store-screenshot-03.png" width="49%" alt="One-click bilingual switch" />
+</p>
 
-| Popup (English) | Popup (中文) | Search |
-|---|---|---|
-| `docs/screenshot-en.png` | `docs/screenshot-zh.png` | `docs/screenshot-search.png` |
+A **bilingual landing page** lives in [`docs/index.html`](docs/index.html) — a single self-contained file ready to publish with **GitHub Pages** or **Gitee Pages** (set Pages source to `/docs`).
 
 ### Installation
 
